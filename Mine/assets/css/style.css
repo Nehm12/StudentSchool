@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+header img{
+    text-align: left;
+    margin-left: 0;
+}
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
